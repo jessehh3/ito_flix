@@ -4,6 +4,4 @@ provider "azurerm" {
   features {}
 }
 
-provider "tls" {
-  features {}
-}
+provider "tls" {}
